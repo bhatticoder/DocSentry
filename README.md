@@ -249,6 +249,6 @@ MIT — do whatever you like; attribution appreciated.
 
 ---
 
-## Made by Muhammad Anas (MM)
+## Made by Muhammad Mudasar Bhatti
 
-For any assistance or complaints, contact me at f240576@cfd.nu.edu.pk
+For any assistance or complaints, contact me at mudasarbhatti191@gmail.com
